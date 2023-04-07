@@ -1,0 +1,15 @@
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\Games.exe
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\Games.deps.json
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\Games.runtimeconfig.json
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\Games.dll
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\ref\Games.dll
+E:\Documents\Visual Studio\Projects\Games\bin\Debug\net6.0\Games.pdb
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.AssemblyInfo.cs
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.dll
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\ref\Games.dll
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.pdb
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.genruntimeconfig.cache
+E:\Documents\Visual Studio\Projects\Games\obj\Debug\net6.0\Games.csproj.AssemblyReference.cache
